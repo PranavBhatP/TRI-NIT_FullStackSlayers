@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-image {
+  background: url("https://wallpaper.dog/large/5492398.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.courgette-regular {
+  font-family: "Courgette", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
